@@ -54,14 +54,3 @@ $(function() {
 
 
 
-
-
-My roommates and i are planning on having some drinks at our place and then heading out.
-
-
--max
-
-
-
-
-
